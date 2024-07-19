@@ -1,18 +1,5 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# My Career Goals Reflection
 
 ### Personal Information
 
@@ -191,27 +178,58 @@ By completing this reflection, you will gain a clearer understanding of your car
             2.Professional Development
             3.Mentorship
 2. **Preparation for Long-term Goals**:
+   **Preperation:**
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    **1. Business Planning**
+        **Action:** Develop a comprehensive business plan for both Aspirations.
+        **Resources:** I'll make use business planning tools like BusinessinaBox.
+   
+     **2. Skill Enhancement**
+       **Action:** Continuously improve your graphic design and Entreprenuel Skills. Stay updated with the latest 
+         design trends and web technologies.
+      **Resources:** Take advanced courses on platforms like Coursera, Udemy, or LinkedIn Learning
 
+    **3.Networking**
+        **Action:** Build a strong professional network. By Attending industry conferences.
+        **Resources:** Platforms like LinkedIn, Meetup, and local business associations.
+
+**Additional Skills, Experiences, and Qualifications Needed:**
+    Business Management
+    Advanced Technical Skills in web and app development
+    Project Management
+    Communication and Leadership
+    Problem-Solving and Innovation
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    **- Potential obstacles or challenges in reaching My goals:**
+      ***Finances:** Finances play a huge part in the businesses I want to start and without them I cant do much.
+   
+       ***Work Distribution:** If i am to work for a certain company I might not have enough time to run my own                                     businesses.
+        *
+
+    **- Strategies to overcome these challenges:**
+        1. Get Funding: Prepare pitch decks, Approach investors, Create Crowdfund accounts.
+        2.Master the skill of letting others work for you: I am a bit of a controll freak making it hard for me to             let people run projects on their own without me trying to help. If i can master this ill have more time on             my hands
+
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    With the Tech industry continuously growing there are alot of opportunities for growth and I can leverage these Through:
 
-### Submission
+   **Networking Opportunities:**
+        *Tech Meetups and Conferences
+        *Online Communities
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+   **Mentorship Opportunities**
+        *Look for formal mentorship programs offered by tech organizations or educational 
+        institutions such as MentorCruise and ADPList.
+        *Professional Networks
+
+   **Educational Opportunities**
+        *Online Courses and Certifications
+        *Coding Bootcamp
+        *Open Source Contributions
+
+
 
 
